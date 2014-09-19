@@ -13,3 +13,4 @@ printf("usage: ./camera_test [buffer count]\n"
                                 "-help     display this information\n");
 
 ./test_camera 4 0 0 640 480 640 480 1 /dev/video100
+camera文件夹里的程序事另一个camera程序，里面还可以借鉴位多目录makefile的摸版
